@@ -11,4 +11,4 @@ have a better understanding of class order.
 
 > Technologies Used
 - Language: Python
-- Packages:BeautifulSoup
+- Packages: BeautifulSoup
